@@ -1,0 +1,2 @@
+/* Minimal styles - tailwind is optional. This keeps the canvas full-screen responsive. */
+html,body,#root{ height:100%; margin:0; font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;}
